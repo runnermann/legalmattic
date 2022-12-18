@@ -1,6 +1,8 @@
 At FlashMonkey we believe privacy is an intrinsic right. However, in order to operate and provide you services, there is certain information that we must collect. Our system operates on Data, this is the nature of software. 
 Here are our fundamental policy outline:
 
+* Bottom line upfront. We do not sell your information, nor do we share it with data brokers. Full-Stop.
+* We make it easy for you to maintain your privacy or show off your capabilities either publicly or to a select few.
 * We are thoughtful about the personal information we ask you to provide and the personal information that we collect about you through and for the operation of our services.
 * We store personal information for only as long as we have a reason to keep it. This means that if you request to delete your information, services that you have worked hard to create, will no longer be available. Once it is gone. We have no means to recover it. 
 * We aim to make it as simple as possible for you to share and unshare your information publicly (E.G. indexed by search engines) or to a select few (Through the use of a link).
